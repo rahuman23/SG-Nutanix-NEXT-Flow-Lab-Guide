@@ -10,6 +10,12 @@
   flow_secure_app/flow_secure_app
   flow_isolate_environments/flow_isolate_environments
 
+  .. toctree::
+    :maxdepth: 2
+    :caption: Appendix
+    :name: _appendix
+    :hidden:
+
   appendix/glossary
   appendix/basics
   tools_vms/windows_tools_vm
