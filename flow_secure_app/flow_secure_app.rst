@@ -20,6 +20,8 @@ Lab Setup
 
 This lab depends on the availability of a multi-tier **Task Manger** web application.
 
+In Calm page, **Task Manager** blueprint has already created and setup. Clone the blueprint and launch the application from calm page. You can skip Deploying Task Manager step if you are able to deploy blueprint successfully. 
+
 Refer to the :ref:`taskman` lab for instructions on importing and launching the completed **Task Manager** blueprint.
 
 Once you have initiated the **Task Manager** deployment, you can proceed with the lab below. **You do not need to wait for the blueprint deployment to complete to begin this lab.**
